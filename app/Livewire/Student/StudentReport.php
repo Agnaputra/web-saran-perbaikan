@@ -64,6 +64,6 @@ class StudentReport extends Component
 
     public function render()
     {
-        return view('livewire.student.student-report');
+        return view('livewire.student.menu.student-report');
     }
 }
